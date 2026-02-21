@@ -1,0 +1,9 @@
+const ROLES = {
+    SYSTEM_ADMIN: 'SYSTEM_ADMIN',
+    HR_OFFICER: 'HR_OFFICER',
+    MANAGER: 'MANAGER',
+    EMPLOYEE: 'EMPLOYEE',
+    APPLICANT: 'APPLICANT'
+};
+
+module.exports = ROLES;
