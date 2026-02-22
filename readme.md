@@ -45,9 +45,9 @@ npm -v
 
 # HRIS_CampusOne_SPRINT1_BACKEND_DEV_TEAM
 
-# For commiting sa GitHub
+For commiting sa GitHub
 
-# Wag commit sa main gumawa nalang branch
+Wag commit sa main gumawa nalang branch
 
 1. lilipat ka sa main at kukunin mo latest version ng project.
 
