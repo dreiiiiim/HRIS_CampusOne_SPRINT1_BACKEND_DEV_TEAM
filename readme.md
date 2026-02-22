@@ -63,8 +63,8 @@ To check if nasa tamang branch ka enter sa terminal
 git branch
 output:
 
-- feature/your-task-name
-  main
+feature/your-task-name
+main
 
 green ung feature/your-task-name dapat tas main di green
 
