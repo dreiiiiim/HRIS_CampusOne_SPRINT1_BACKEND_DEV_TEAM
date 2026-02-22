@@ -59,6 +59,15 @@ Wag commit sa main gumawa nalang branch
 - example gumawa ka ng gumagawa ka ng login API
 - git checkout -b feature/login-api
 
+To check if nasa tamang branch ka enter sa terminal
+git branch
+output:
+
+- feature/your-task-name
+  main
+
+green ung feature/your-task-name dapat tas main di green
+
 3. adding files and commiting sa github
 
 - git add .
