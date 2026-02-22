@@ -2,7 +2,7 @@
 
 ````bash
 git clone <repo-link>
-cd CampusOneHRIS-SPRINT1
+cd HRIS_CampusOne_SPRINT1_BACKEND_DEV_TEAM
 npm install
 npm install @supabase/supabase-js
 # CampusOne HRIS – Sprint 1 (Authentication Module)
